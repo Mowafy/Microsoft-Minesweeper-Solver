@@ -9,9 +9,11 @@ This is the source code for the c# program I attempted to write to play the Micr
 This is a video of the program in action on <a href="https://www.youtube.com/watch?v=Y-MWwAr0Kik">Youtube</a>.
 
 The program follows these simple steps:
-1- Take a screenshot of the game.
-2- Exclude all unwanted parts from the screenshot.
-3- Do some Image Processing to convert the game board image to a 2D array.
-4- Do some logic to place mines and clear free tiles.
-5- Free a random tile if the game reached a dead end.
-6- Repeat the above till the program wins or loses.
+<ol>
+<li>Take a screenshot of the game.</li>
+<li>Exclude all unwanted parts from the screenshot.</li>
+<li>Do some Image Processing to convert the game board image to a 2D array.</li>
+<li>Do some logic to place mines and clear free tiles.</li>
+<li>Free a random tile if the game reached a dead end.</li>
+<li>Repeat the above till the program wins or loses.</li>
+</ol>
